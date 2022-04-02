@@ -1,5 +1,5 @@
 # ClonPinterest
-ClonPinterest
+Proyecto clon de Pinterest
 
 Este proyecto fue creado con HTML y CSS.
 
